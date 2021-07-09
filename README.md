@@ -10,7 +10,10 @@
 - College : Government Polytechnic Men <br>
 - Branch : Computer Engineering <br>
 - Year Of Pass : 2018 <br>
-- College Address : Gujarathipeta(Village), Srikakulam(Mandal), Srikakulam(District) 
+- College Address : Gujarathipeta(Village), Srikakulam(Mandal), Srikakulam(District) <br>
 **SSC**
 - School : Saraswati Vidya Mandir <br>
 - 
+
+
+
