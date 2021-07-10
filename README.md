@@ -30,7 +30,8 @@ Location : Online. <br>
 - Computer Hardware & Networking course training program conducted at the institute from 20.11.2019 to 03.01.2020. The Training Program was sponsored by Ministry of Rural Development - Government of India & ABRDT. through Andhra Bank Rural Self Employment Training Institute. Location : Offline <br>
 - Microsoft Office Course is training by Andhrapradesh State Skil Development Corporation. From 8th March,2021 To 11th April,2021. Location : Online. <br>
 - Virtual Training Program On Angular, by Andhrapradesh State Skill Development Corporation through Excelr . From 5th April, 2021 To 30th April, 2021. Location : Online. <br>
-- Online Training Program AWS Cloud Literacy by Andhrapradesh State Skill Development Corporation through Amazon Web Service Educate. From 4-June-2021 To 21-June-2021. Location : Online. <br>
+- Online Training Program on AWS Cloud Literacy by Andhrapradesh State Skill Development Corporation through Amazon Web Service Educate. From 4-June-2021 To 21-June-2021. Location : Online. <br>
+- Online Training Program on Tally With GST by Andhrapradesh State Skill Development Corporation. From 22-03-2021 To 28-04-2021, Location : online <br>
 - 
 - Introduction to Cybersecurity course is completed by NASSCOM FutureSkills Academy through Cisco Networking Academy, Dt : 29 June 2021. Location : Online <br>
 
