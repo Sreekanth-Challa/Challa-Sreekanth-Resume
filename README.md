@@ -21,7 +21,7 @@
 - GPA : 6.8 <br>
 - Address : Palakonda-Haddubangi Main Road, Seethampeta(Village), Seethampeta (Mandal), Srikakulam (District). <br>
 
-**TRAININGS/ COURSES :**
+### TRAININGS/ COURSES :
 - Government Polytechnic,Srikakulam has undergone my Industrial Training program from -1st May, 2017 to 31st May, 2017. Location : Online. <br>
 - Government Polytechnic,Srikakulam has undergone my IT Essentials : PC Hardware and Software Course in Cisco Networking Academy, Dt : 09-July 2018. Location : Online. <br>
 - Government Polytechnic,Srikakulam has undergone my Mobility Fundamentals Series: Wireless Technology and Standards course in Cisco Networking Academy, Dt : 27-August 2018. Location : Online <br>
