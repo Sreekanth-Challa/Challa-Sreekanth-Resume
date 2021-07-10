@@ -23,8 +23,8 @@
 
 **Trainings :**
 - Government Polytechnic,Srikakulam has undergone my Industrial Training program from -1st May, 2017 to 31st May, 2017. <br>
-- Government Polytechnic,Srikakulam has undergone my IT Essentials : PC Hardware and Software Course in Cisco Networking Academy, Dt : 09-july 2018. <br>
-- 
+- Government Polytechnic,Srikakulam has undergone my IT Essentials : PC Hardware and Software Course in Cisco Networking Academy, Dt : 09-July 2018. <br>
+- Government Polytechnic,Srikakulam has undergone my Mobility Fundamentals Series: Wireless Technology and Standards course in Cisco Networking Academy, Dt : 27-August 2018. <br>
 
 
 
