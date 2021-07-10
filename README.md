@@ -1,27 +1,27 @@
 # Sreekanth-Challa-Resume
 # Resume
-### Personal Details :
+### PERSONAL DETAILS :
 - Name : Challa Sreekanth <br>
 - Email : Sravsree393@gmail.com <br>
 - Phone : +919703782307 <br>
 - Address : SC Street, Door No : 125-6, Dimili(Village), Kothuru(Mandal), Srikakulam(District). 
 
-### Educational Details :
-**Polytechnic :**
+### EDUCATION :
+**Diploma :**
 - College : Government Polytechnic Men <br>
 - Branch : Computer Engineering <br>
 - Year Of Pass : 2018 <br>
 - Percentage : 70℅ <br>
 - College Address : Gujarathipeta(Village), Srikakulam(Mandal), Srikakulam(District) <br>
 
-**SSC :**
+**X (Secondary) :**
 - School : Government High School <br>
 - Class : SSC <br>
 - Year Of Study : 2015 <br>
 - GPA : 6.8 <br>
 - Address : Palakonda-Haddubangi Main Road, Seethampeta(Village), Seethampeta (Mandal), Srikakulam (District). <br>
 
-**Trainings :**
+**TRAININGS/ COURSES :**
 - Government Polytechnic,Srikakulam has undergone my Industrial Training program from -1st May, 2017 to 31st May, 2017. Location : Online. <br>
 - Government Polytechnic,Srikakulam has undergone my IT Essentials : PC Hardware and Software Course in Cisco Networking Academy, Dt : 09-July 2018. Location : Online. <br>
 - Government Polytechnic,Srikakulam has undergone my Mobility Fundamentals Series: Wireless Technology and Standards course in Cisco Networking Academy, Dt : 27-August 2018. Location : Online <br>
