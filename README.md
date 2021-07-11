@@ -36,8 +36,8 @@ Location : Online. <br>
 - Online Training program on Python Programming course by Andhrapradesh State Skill Development Corporation(APSSDC). From 15-03-2021 To 17-04-2021. Location : Online. <br>
 - 10 Days Online Training on Digital Marketing course for beginners organized by Andhrapradesh State Skill Development Corporation(APSSDC). From 14th june 2021 to 25th june 2021. Location : Online. <br>
 - Online Training program on Data Analysis Using Python course by Andhrapradesh State Skill Development Corporation(APSSDC). From 26-05-2021 to 18-06-2021. Location : Online. <br>
-- 
 - Introduction to Cybersecurity course is completed by NASSCOM FutureSkills Academy through Cisco Networking Academy, Dt : 29 June 2021. Location : Online. <br>
+
 
 
 
