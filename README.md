@@ -38,7 +38,7 @@ Location : Online. <br>
 - Online Training program on Data Analysis Using Python course by Andhrapradesh State Skill Development Corporation(APSSDC). From 26-05-2021 to 18-06-2021. Location : Online. <br>
 - Introduction to Cybersecurity course is completed by NASSCOM FutureSkills Academy through Cisco Networking Academy, Dt : 29 June 2021. Location : Online. <br>
 
-
+### ACADEMIC/ PERSONAL PROJECTS :
 
 
 
