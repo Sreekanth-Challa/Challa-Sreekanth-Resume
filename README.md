@@ -43,5 +43,6 @@ Location : Online. <br>
 - From : Mar 2015 - Mar 2018.
 - Description : This project is aimed for developed our COLLEGE WEBSITE, will help to create and maintain Students Related Information, Scholarship Data, Sports, NCC, NSS and other college related information in an effective manner.
 
+### SKILLS :
 
 
