@@ -45,187 +45,187 @@ Location : Online. <br>
 
 ### SKILLS :
 - Amazon Web Services (AWS)
-  Intermediate
+  * Intermediate
  
 - Android
-  Intermediate
+  * Intermediate
  
 - AngularJS
-  Intermediate
+  * Intermediate
  
 - Blogging
-  Advanced
+  * Advanced
  
 - Bootstrap
-  Intermediate
+  * Intermediate
  
 - C Programming
-  Intermediate
+  * Intermediate
  
 - C#
-  Intermediate
+  * Intermediate
  
 - C#.NET
-  Intermediate
+  * Intermediate
  
 - C++ Programming
-  Intermediate
+  * Intermediate
  
 - CSS
-  Intermediate
+  * Intermediate
  
 - Cloud Computing
-  Intermediate
+  * Intermediate
  
 - Computer Networking
-  Advanced
+  * Advanced
  
 - Computer Networks
-  Advanced
+  * Advanced
  
 - Data Analytics
-  Intermediate
+  * Intermediate
  
 - Data Science
-  Intermediate
+  * Intermediate
  
 - Data Structures
-  Intermediate
+  * Intermediate
  
 - Database Management System (DBMS)
-  Intermediate
+  * Intermediate
  
 - Digital Marketing
-  Advanced
+  * Advanced
  
 - Distributed Computing
-  Intermediate
+  * Intermediate
  
 - Email Marketing
-  Advanced
+  * Advanced
  
 - Facebook Marketing
-  Advanced
+  * Advanced
  
 - Git SVN
-- Advanced
+  * Advanced
  
 - GitHub
-  Advanced
+  * Advanced
  
 - Google AdWords
-  Advanced
+  * Advanced
  
 - Google Analytics
-  Advanced
+  * Advanced
  
 - Google Cloud Computing
-  Advanced
+  * Advanced
  
 - HTML
-  Advanced
+  * Advanced
  
 - Instagram Marketing
-  Advanced
+  * Advanced
  
 - JSON
-  Intermediate
+  * Intermediate
  
 - JSP
-  Intermediate
+  * Intermediate
  
 - Java
-  Intermediate
+  * Intermediate
  
 - JavaFX
-  Intermediate
+  * Intermediate
  
 - JavaScript
-  Intermediate
+  * Intermediate
  
 - MS SQL Server
-  Intermediate
+  * Intermediate
  
 - MS-Excel
-  Advanced
+  * Advanced
  
 - MS-Office
-  Advanced
+  * Advanced
  
 - MS-PowerPoint
-  Advanced
+  * Advanced
  
 - MS-Word
-  Advanced
+  * Advanced
  
 - Microsoft Visio
-  Intermediate
+  * Intermediate
  
 - Microsoft Visual Studio
-  Advanced
+  * Advanced
  
 - MySQL
-  Intermediate
+  * Intermediate
  
 - Node.js
-  Intermediate
+  * Intermediate
  
 - Oracle
-  Intermediate
+  * Intermediate
  
 - PHP
-  Intermediate
+  * Intermediate
  
 - Python
-  Intermediate
+  * Intermediate
  
 - ReactJS
-  Intermediate
+  * Intermediate
  
 - SQL
-  Intermediate
+  * Intermediate
  
 - Search Engine Marketing (SEM)
-  Intermediate
+  * Intermediate
  
 - Search Engine Optimization (SEO)
-  Intermediate
+  * Intermediate
  
 - Social Media Marketing
-  Advanced
+  * Advanced
  
 - Servlets
-  Intermediate
+  * Intermediate
  
 - Tally
-  Intermediate
+  * Intermediate
  
 - English Proficiency (Spoken)
-  Intermediate
+  * Intermediate
  
 - English Proficiency (Written)
-  Intermediate
+  * Intermediate
  
 - Telugu Proficiency (Spoken)
-  Advanced
+  * Advanced
  
 - Telugu Proficiency (Written)
-  Advanced
+  * Advanced
  
 - Visual Basic (VB)
-  Intermediate
+  * Intermediate
  
 - Web Application Security
-  Intermediate
+  * Intermediate
  
 - Webflow
-  Beginner
+  * Beginner
  
 - Windows Mobile Application Development
-  Intermediate
+  * Intermediate
  
 - WordPress
-  Intermediate
+  * Intermediate
  
 - XML
   Intermediate
