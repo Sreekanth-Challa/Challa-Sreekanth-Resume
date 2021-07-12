@@ -228,16 +228,16 @@ Location : Online. <br>
   * Intermediate
  
 - XML
-  Intermediate
+  * Intermediate
  
 - jQuery
-  Intermediate
+  * Intermediate
 
 - Computer Hardware
-  Advanced
+  * Advanced
 
 - Cyber Security
-  Intermediate
+  * Intermediate
 
 
 
