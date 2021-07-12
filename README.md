@@ -1,4 +1,4 @@
-# Sreekanth-Challa-Resume
+# Challa-Sreekanth-Resume
 # Resume
 ### PERSONAL DETAILS :
 - Name : Challa Sreekanth <br>
