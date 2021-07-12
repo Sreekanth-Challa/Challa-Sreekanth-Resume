@@ -140,7 +140,7 @@ Location : Online. <br>
 - JavaFX
   Intermediate
  
- -JavaScript
+- JavaScript
   Intermediate
  
 - MS SQL Server
