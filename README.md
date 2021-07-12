@@ -44,13 +44,200 @@ Location : Online. <br>
 - Description : This project is aimed for developed our COLLEGE WEBSITE, will help to create and maintain Students Related Information, Scholarship Data, Sports, NCC, NSS and other college related information in an effective manner.
 
 ### SKILLS :
+- Amazon Web Services (AWS)
+  Intermediate
+ 
+- Android
+  Intermediate
+ 
+- AngularJS
+  Intermediate
+ 
+- Blogging
+  Advanced
+ 
+- Bootstrap
+  Intermediate
+ 
+- C Programming
+  Intermediate
+ 
+- C#
+  Intermediate
+ 
+- C#.NET
+  Intermediate
+ 
+- C++ Programming
+  Intermediate
+ 
+- CSS
+  Intermediate
+ 
+- Cloud Computing
+  Intermediate
+ 
+- Computer Networking
+  Advanced
+ 
+- Computer Networks
+  Advanced
+ 
+- Data Analytics
+  Intermediate
+ 
+- Data Science
+  Intermediate
+ 
+- Data Structures
+  Intermediate
+ 
+- Database Management System (DBMS)
+  Intermediate
+ 
+- Digital Marketing
+  Advanced
+ 
+- Distributed Computing
+  Intermediate
+ 
+- Email Marketing
+  Advanced
+ 
+- Facebook Marketing
+  Advanced
+ 
+- Git SVN
+- Advanced
+ 
+- GitHub
+  Advanced
+ 
+- Google AdWords
+  Advanced
+ 
+- Google Analytics
+  Advanced
+ 
+- Google Cloud Computing
+  Advanced
+ 
+- HTML
+  Advanced
+ 
+- Instagram Marketing
+  Advanced
+ 
+- JSON
+  Intermediate
+ 
+- JSP
+  Intermediate
+ 
+- Java
+  Intermediate
+ 
+- JavaFX
+  Intermediate
+ 
+ -JavaScript
+  Intermediate
+ 
+- MS SQL Server
+  Intermediate
+ 
+- MS-Excel
+  Advanced
+ 
+- MS-Office
+  Advanced
+ 
+- MS-PowerPoint
+  Advanced
+ 
+- MS-Word
+  Advanced
+ 
+- Microsoft Visio
+  Intermediate
+ 
+- Microsoft Visual Studio
+  Advanced
+ 
+- MySQL
+  Intermediate
+ 
+- Node.js
+  Intermediate
+ 
+- Oracle
+  Intermediate
+ 
+- PHP
+  Intermediate
+ 
+- Python
+  Intermediate
+ 
+- ReactJS
+  Intermediate
+ 
+- SQL
+  Intermediate
+ 
+- Search Engine Marketing (SEM)
+  Intermediate
+ 
+- Search Engine Optimization (SEO)
+  Intermediate
+ 
+- Social Media Marketing
+  Advanced
+ 
+- Servlets
+  Intermediate
+ 
+- Tally
+  Intermediate
+ 
+- English Proficiency (Spoken)
+  Intermediate
+ 
+- English Proficiency (Written)
+  Intermediate
+ 
+- Telugu Proficiency (Spoken)
+  Advanced
+ 
+- Telugu Proficiency (Written)
+  Advanced
+ 
+- Visual Basic (VB)
+  Intermediate
+ 
+- Web Application Security
+  Intermediate
+ 
+- Webflow
+  Beginner
+ 
+- Windows Mobile Application Development
+  Intermediate
+ 
+- WordPress
+  Intermediate
+ 
+- XML
+  Intermediate
+ 
+- jQuery
+  Intermediate
 
+- Computer Hardware
+  Advanced
 
-
-
-
-
-
+- Cyber Security
+  Intermediate
 
 
 
