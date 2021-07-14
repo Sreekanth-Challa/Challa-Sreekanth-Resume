@@ -239,6 +239,14 @@ Location : Online. <br>
 - Cyber Security
   * Intermediate
 
+### GOALS :
+- I want to become a best Software Developer. 
+
+### Hobbies : 
+- Reading Books📚. 
+- Watching Movies🍿🎥. 
+- Listening Music🎶. 
+- 
 
 
 
