@@ -278,9 +278,9 @@ Location : Online. <br>
   * Logical Thinking. 
   
 - WEAKNESSES :
-  * Extremely Introverted
-  * Extremely Extroverted
-  * Too sensitive
+  * Too Sensitive. 
+
+
 
   
   
