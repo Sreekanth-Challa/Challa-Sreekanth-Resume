@@ -244,9 +244,24 @@ Location : Online. <br>
 
 ### Hobbies : 
 - Reading Books📚. 
-- Watching Movies🍿🎥. 
+- Watching Films🎬. 
 - Listening Music🎶. 
-- 
+- Surf The Web. 
+- Web Design. 
+- Computer Games🎮. 
+- Programming. 
+- Game Development. 
+- Writing✍️. 
+- Blogging. 
+- 3D Modeling. 
+- Photoshop Picture🖼️. 
+- Organizing Data.
+- Cooking👨‍🍳🍲 and Grilling.
+- BodyBuilding. 
+- Traditional Sports⚽🏀🏈⚾. 
+- Cycling and Mountain🗻 Biking🚴. 
+- Photography.
+
 
 
 
