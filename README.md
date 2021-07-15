@@ -276,9 +276,15 @@ Location : Online. <br>
   * Self-Control. 
   * Hardworking.
   * Logical Thinking. 
+  * Enthusiasm. 
+  * Trustworthiness. 
+  * Discipline. 
+  * Patience. 
+  * Respectfulness. 
+  * Determination. 
   
 - WEAKNESSES :
-  * Too Sensitive. 
+  * Take time to understanding. 
 
 
 
