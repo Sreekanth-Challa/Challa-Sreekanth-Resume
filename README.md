@@ -242,7 +242,7 @@ Location : Online. <br>
 ### GOALS :
 - I want to become a best Software Developer. 
 
-### Hobbies : 
+### HOBBIES :
 - Reading Books📚. 
 - Watching Films🎬. 
 - Listening Music🎶. 
@@ -262,6 +262,33 @@ Location : Online. <br>
 - Cycling and Mountain🗻 Biking🚴. 
 - Photography.
 
+### STRENGTHS & WEAKNESSES : 
+- STRENGTHS :                        
+  * Creativity.
+  * Versatility.
+  * Flexibility. 
+  * Focused. 
+  * Taking Initiative. 
+  * Honesty. 
+  * Dedication. 
+  * Integrity. 
+  * Continuous Learning. 
+  * Self-Control. 
+  * Hardworking.
+  * Logical Thinking. 
+  
+- WEAKNESSES :
+  * Extremely Introverted
+  * Extremely Extroverted
+  * Too sensitive
+
+  
+  
+  
+  
+  
+  
+  
 
 
 
