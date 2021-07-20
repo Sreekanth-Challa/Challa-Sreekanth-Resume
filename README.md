@@ -33,6 +33,7 @@ Location : Online. <br>
 - Online Training Program on Tally With GST course by Andhrapradesh State Skill Development Corporation(APSSDC). From 22-03-2021 To 28-04-2021, Location : Online. <br>
 - Virtual Training Program On Angular, by Andhrapradesh State Skill Development Corporation(APSSDC) through Excelr. From 5th April, 2021 To 30th April, 2021. Location : Online. <br>
 - Online Training program on Android Development course by Andhrapradesh State Skill Development Corporation(APSSDC). From 07-04-2021 To 19-05-2021. Location : Online. <br>
+- Online Training program on Digital Marketing Course by Andhrapradesh State Skill Development Corporation(APSSDC). From 22nd April,2021 To 19th May,2021. Location : Online. <br>
 - Online Training program on Data Analysis Using Python course by Andhrapradesh State Skill Development Corporation(APSSDC). From 26-05-2021 to 18-06-2021. Location : Online. <br>
 - Online Training Program on AWS Cloud Literacy by Andhrapradesh State Skill Development Corporation(APSSDC) through Amazon Web Service Educate(AWS EDUCATE). From 4-June-2021 To 21-June-2021. Location : Online. <br>
 - 10 Days Online Training on Digital Marketing course for beginners organized by Andhrapradesh State Skill Development Corporation(APSSDC). From 14th june 2021 to 25th june 2021. Location : Online. <br>
