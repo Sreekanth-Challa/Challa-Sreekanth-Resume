@@ -4,7 +4,7 @@
 - Name : Challa Sreekanth <br>
 - Email : Sravsree393@gmail.com <br>
 - Phone : +919703782307 <br>
-- Address : SC Street, Door No : 125-6, Dimili(V), Kothuru(M), Srikakulam(Dist), Andhra Pradesh-532443<br>
+- Address : SC Street, Door No : 125-6, Dimili(V), Kothuru(M), Srikakulam(Dist), Andhra Pradesh-532457<br>
 
 ### EDUCATION :
 **Diploma :**
